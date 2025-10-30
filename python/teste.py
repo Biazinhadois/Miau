@@ -1,0 +1,1 @@
+print('ʚɞ Asas')
